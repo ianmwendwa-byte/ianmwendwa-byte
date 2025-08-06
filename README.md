@@ -39,7 +39,7 @@ Passionate about solving real-world problems, I create innovative web applicatio
 ## 📫 Connect with Me
 
 - 🌐 Website: [ianmwendwa.vercel.app](#)
-- 💼 LinkedIn: [yourlinkedin](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ian-mwendwa-4227b32bb](#)
 - 📧 Email: [ianmwendwa5@gmail.com](#)
 
 ---
