@@ -1,6 +1,6 @@
 # Hi there, I'm Ian Mwendwa 👋
 
-🔗 [Website](#) &nbsp;|&nbsp; [LinkedIn](#) &nbsp;|&nbsp; 📧 [Email](ianmwndwa5@gmail.com)
+🔗 [Website](https://ianmwendwa.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://ianmwendwa.vercel.app) &nbsp;|&nbsp; 📧 [Email](ianmwndwa5@gmail.com)
 
 ---
 
